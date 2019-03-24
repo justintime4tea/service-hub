@@ -64,6 +64,7 @@
     "fastify": "^2.1.0",
     "jsdoc": "^3.5.5",
     "mocha": "^6.0.2",
+    "nodemon": "^1.18.10",
     "nyc": "^13.3.0",
     "postman-jsdoc-theme": "0.0.3",
     "pre-commit": "^1.2.2",
@@ -71,8 +72,6 @@
     "request-promise-native": "^1.0.7",
     "rewire": "^4.0.1",
     "sinon": "^7.2.7",
-    "sinon-chai": "^3.3.0",
-    "typings": "^2.1.1",
-    "nodemon": "^1.18.10"
+    "sinon-chai": "^3.3.0"
   }
 }
